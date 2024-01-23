@@ -1,0 +1,37 @@
+# Unity generated
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+
+# Visual Studio / MonoDevelop generated
+/[Ee]xportedObj/
+/*.svd
+/*.userprefs
+/*.csproj
+/*.pidb
+/*.suo
+/*.sln*
+/*.user
+/*.unityproj
+/*.booproj
+
+
+# Build generated
+/[Bb]uild/
+
+# Scene files
+*.unity
+
+# Asset files
+*.meta
+
+# Previous Unity versions generated file
+sysinfo.txt
+
+# Mac files
+.DS_Store
+
+
+/Logs/
+.vscode/
